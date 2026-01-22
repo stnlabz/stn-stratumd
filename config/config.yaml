@@ -1,7 +1,7 @@
 # config.yaml
 
 port: 3333
-chain_rpc: "http://ch01.darkindex.net:8333/rpc"
+chain_rpc: "http://localhost:8333/rpc"
 
 # If true, skip mining.authorize checks and accept all miners
 allow_anonymous: true
@@ -10,4 +10,4 @@ difficulty: 1000
 work_interval: 5
 
 # Add this line (your real threat feed URL)
-threat_endpoint: "http://ch01.darkindex.net:8333/block"
+threat_endpoint: "http://localhost:8333/block"
