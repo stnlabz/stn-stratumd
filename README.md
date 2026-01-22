@@ -1,4 +1,5 @@
-# dw-stratumd
+# stn-stratumd
+ - Maintaining an **ASIC RESISTANT** State so that even those with just a Raspberry Pi can mine this blockchain.
 
 # Setting Up
 - go init stratumd
